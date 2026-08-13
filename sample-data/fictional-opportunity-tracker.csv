@@ -1,0 +1,5 @@
+opportunity_id,organization,role,work_arrangement,source,status,next_action,approval_required
+DEMO-001,Example Technology Cooperative,Remote Support Specialist,Remote,Fictional Career Portal,Under Review,Verify qualifications,Yes
+DEMO-002,Sample Public Services Agency,IT Service Desk Analyst,Remote,Fictional Government Board,Draft Prepared,Review tailored materials,Yes
+DEMO-003,Demonstration Cloud Company,Customer Support Operations Associate,Remote,Fictional Employer Site,Interview Planning,Approve proposed schedule,Yes
+
