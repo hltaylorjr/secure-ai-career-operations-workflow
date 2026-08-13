@@ -4,6 +4,10 @@ A privacy-conscious, human-governed career operations system designed to coordin
 
 This repository is a **sanitized portfolio demonstration**. It contains no production credentials, private career records, employer communications, caller information, application data, or personal contact information.
 
+![Branded flowchart of the Secure AI Career Operations Workflow](docs/herbert-taylor-secure-ai-career-operations-workflow.png)
+
+*Sanitized public architecture showing the six-stage workflow and the human oversight, security, audit, and budget controls applied across it.*
+
 ## Project leadership
 
 **Role:** Product Owner, Workflow Architect, and AI-Assisted Implementation Lead
